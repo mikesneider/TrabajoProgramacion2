@@ -10,3 +10,10 @@ Para la clase de programación 2 de UDI
         <td>Foo</td>
     </tr>
 </table>
+
+```
+#import using.math
+double a=0;
+a *= 5;
+Console.writeLine(a);
+```
