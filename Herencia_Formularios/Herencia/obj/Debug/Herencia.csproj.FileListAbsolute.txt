@@ -1,0 +1,13 @@
+C:\Users\mikes\source\repos\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\mikes\source\repos\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\mikes\source\repos\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.csprojAssemblyReference.cache
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.formularioBase.resources
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.f_about.resources
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.f_informacion.resources
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.f_llenarDatos.resources
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.Properties.Resources.resources
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.csproj.GenerateResource.cache
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\mikes\source\repos\Herencia\Herencia\obj\Debug\Herencia.pdb
