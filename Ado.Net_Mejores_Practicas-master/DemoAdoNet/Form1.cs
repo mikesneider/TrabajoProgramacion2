@@ -20,7 +20,7 @@ namespace DemoAdoNet
             InicializarFormulario();
 
             dataAccess = new GoodPractices_DataAccess();
-            //dataAccess = new BadPractices_DataAccess();
+            dataAccess = new BadPractices_DataAccess();
 
             CargarAlumnos();
         }        
@@ -354,6 +354,10 @@ namespace DemoAdoNet
 
         }
 
+        private void frmDemo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }

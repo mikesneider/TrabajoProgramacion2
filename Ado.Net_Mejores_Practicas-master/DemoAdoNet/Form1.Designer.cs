@@ -382,6 +382,7 @@
             this.Name = "frmDemo";
             this.ShowIcon = false;
             this.Text = "Ado.Net - Best Practices";
+            this.Load += new System.EventHandler(this.frmDemo_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
