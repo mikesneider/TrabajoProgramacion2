@@ -76,7 +76,7 @@ namespace WindowsFormsApp2
                 DIR.Create();
             }
         }
-        public static double[][] ReadFile(string fileName, bool porcentaje)
+        public static double[][] ReadFile(string fileName, char separador=';')
         {
             var fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
 
@@ -98,7 +98,7 @@ namespace WindowsFormsApp2
             int k = 0;
             for (int t = 1; t < L.Count; t++)
             {
-                var spl = L[t].Split(';');
+                var spl = L[t].Split(separador);
                 result[k] = new double[spl.Length];
                 int Columnas = spl.Length;
                 //              if (t % 5 != 0 && porcentaje)

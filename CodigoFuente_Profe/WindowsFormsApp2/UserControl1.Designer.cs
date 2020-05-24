@@ -33,14 +33,15 @@
             this.LB_Contador = new System.Windows.Forms.Label();
             this.LB_NombreLibro = new System.Windows.Forms.Label();
             this.LB_Nombre = new System.Windows.Forms.Label();
+            this.btn_mostrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // BTN_Editar
             // 
-            this.BTN_Editar.Location = new System.Drawing.Point(84, 91);
+            this.BTN_Editar.Location = new System.Drawing.Point(25, 91);
             this.BTN_Editar.Margin = new System.Windows.Forms.Padding(4);
             this.BTN_Editar.Name = "BTN_Editar";
-            this.BTN_Editar.Size = new System.Drawing.Size(153, 24);
+            this.BTN_Editar.Size = new System.Drawing.Size(120, 24);
             this.BTN_Editar.TabIndex = 0;
             this.BTN_Editar.Text = "Editar Info";
             this.BTN_Editar.UseVisualStyleBackColor = true;
@@ -89,12 +90,24 @@
             this.LB_Nombre.TabIndex = 4;
             this.LB_Nombre.Text = "Nombre Libro:";
             // 
+            // btn_mostrar
+            // 
+            this.btn_mostrar.Location = new System.Drawing.Point(169, 91);
+            this.btn_mostrar.Margin = new System.Windows.Forms.Padding(4);
+            this.btn_mostrar.Name = "btn_mostrar";
+            this.btn_mostrar.Size = new System.Drawing.Size(120, 24);
+            this.btn_mostrar.TabIndex = 7;
+            this.btn_mostrar.Text = "Mostrar Ventas";
+            this.btn_mostrar.UseVisualStyleBackColor = true;
+            this.btn_mostrar.Click += new System.EventHandler(this.btn_mostrar_Click);
+            // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Transparent;
             this.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.CKB_Activado);
             this.Controls.Add(this.BTN_Editar);
             this.Controls.Add(this.LB_NombreLibro);
@@ -116,5 +129,6 @@
         private System.Windows.Forms.Label LB_Nombre;
         private System.Windows.Forms.Label LB_NombreLibro;
         private System.Windows.Forms.Label LB_Contador;
+        private System.Windows.Forms.Button btn_mostrar;
     }
 }

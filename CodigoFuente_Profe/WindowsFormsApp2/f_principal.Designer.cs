@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(f_principal));
             this.GB_IngresarDatos = new WindowsFormsApp2.cs_CustomGroupBox();
             this.BTN_Calcular = new System.Windows.Forms.Button();
             this.LB_Editorial = new System.Windows.Forms.Label();
@@ -50,8 +51,10 @@
             this.menuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.agregarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.generosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.P_check = new System.Windows.Forms.PictureBox();
             this.GB_IngresarDatos.SuspendLayout();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.P_check)).BeginInit();
             this.SuspendLayout();
             // 
             // Btn_ayuda
@@ -62,6 +65,8 @@
             // 
             // GB_IngresarDatos
             // 
+            this.GB_IngresarDatos.Controls.Add(this.P_check);
+            this.GB_IngresarDatos.Controls.Add(this.Btn_Cargar);
             this.GB_IngresarDatos.Controls.Add(this.BTN_Calcular);
             this.GB_IngresarDatos.Controls.Add(this.LB_Editorial);
             this.GB_IngresarDatos.Controls.Add(this.CB_Editorial);
@@ -82,7 +87,7 @@
             // 
             // BTN_Calcular
             // 
-            this.BTN_Calcular.Location = new System.Drawing.Point(23, 244);
+            this.BTN_Calcular.Location = new System.Drawing.Point(22, 256);
             this.BTN_Calcular.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BTN_Calcular.Name = "BTN_Calcular";
             this.BTN_Calcular.Size = new System.Drawing.Size(233, 26);
@@ -214,7 +219,7 @@
             // 
             // Btn_Cargar
             // 
-            this.Btn_Cargar.Location = new System.Drawing.Point(33, 344);
+            this.Btn_Cargar.Location = new System.Drawing.Point(22, 226);
             this.Btn_Cargar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Btn_Cargar.Name = "Btn_Cargar";
             this.Btn_Cargar.Size = new System.Drawing.Size(233, 26);
@@ -247,15 +252,26 @@
             this.agregarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.generosToolStripMenuItem});
             this.agregarToolStripMenuItem.Name = "agregarToolStripMenuItem";
-            this.agregarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.agregarToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
             this.agregarToolStripMenuItem.Text = "agregar";
             // 
             // generosToolStripMenuItem
             // 
             this.generosToolStripMenuItem.Name = "generosToolStripMenuItem";
-            this.generosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.generosToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.generosToolStripMenuItem.Text = "generos";
             this.generosToolStripMenuItem.Click += new System.EventHandler(this.generosToolStripMenuItem_Click);
+            // 
+            // P_check
+            // 
+            this.P_check.Image = ((System.Drawing.Image)(resources.GetObject("P_check.Image")));
+            this.P_check.Location = new System.Drawing.Point(261, 217);
+            this.P_check.Name = "P_check";
+            this.P_check.Size = new System.Drawing.Size(37, 35);
+            this.P_check.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.P_check.TabIndex = 11;
+            this.P_check.TabStop = false;
+            this.P_check.Visible = false;
             // 
             // f_principal
             // 
@@ -263,7 +279,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1107, 502);
-            this.Controls.Add(this.Btn_Cargar);
             this.Controls.Add(this.BTN_Config);
             this.Controls.Add(this.Lbl_Elige_Idioma);
             this.Controls.Add(this.CB_Idioma);
@@ -285,11 +300,11 @@
             this.Controls.SetChildIndex(this.CB_Idioma, 0);
             this.Controls.SetChildIndex(this.Lbl_Elige_Idioma, 0);
             this.Controls.SetChildIndex(this.BTN_Config, 0);
-            this.Controls.SetChildIndex(this.Btn_Cargar, 0);
             this.GB_IngresarDatos.ResumeLayout(false);
             this.GB_IngresarDatos.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.P_check)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -319,5 +334,6 @@
         private System.Windows.Forms.ToolStripMenuItem menuToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem agregarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem generosToolStripMenuItem;
+        private System.Windows.Forms.PictureBox P_check;
     }
 }

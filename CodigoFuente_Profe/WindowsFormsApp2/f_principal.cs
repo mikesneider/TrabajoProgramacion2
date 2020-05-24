@@ -147,6 +147,7 @@ namespace WindowsFormsApp2
             Panel_Grf.Controls.Add(MiGraf);
             MiGraf.Visible = false;
             //DB_conexion.conectar();
+            cargaratosBD();
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -200,7 +201,22 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            cargaratosBD();
+
+            // archivo de ventas 
+            leerArchivo();
+        }
+        private bool leerArchivo()
+        {
+            OpenFileDialog OFD = new OpenFileDialog();
+            DialogResult Rta = OFD.ShowDialog();
+            if(Rta == DialogResult.OK)
+            {
+                var variable = cs_Validaciones.ReadFile(OFD.FileName);
+                //IDictionary<DateTime,double> 
+
+            }
+
+            return true;
         }
         private void cargaratosBD()
         {

@@ -71,5 +71,10 @@ namespace WindowsFormsApp2
             CKB_Activado.Text = Res.tx_activar;
 
         }
+
+        private void btn_mostrar_Click(object sender, EventArgs e)
+        {
+            //mostrar grafica en DLL graficar.
+        }
     }
 }

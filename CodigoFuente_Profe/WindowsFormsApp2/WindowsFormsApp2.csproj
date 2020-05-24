@@ -132,6 +132,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Res.resx</DependentUpon>
     </Compile>
+    <Compile Include="Res.fr-FR.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Res.fr-FR.resx</DependentUpon>
+    </Compile>
     <Compile Include="Settings1.cs" />
     <Compile Include="Singleton.cs" />
     <Compile Include="UserControl1.cs">
@@ -180,7 +185,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Res.en-US1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Res.fr-FR.resx" />
+    <EmbeddedResource Include="Res.fr-FR.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Res.fr-FR.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Res.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Res.Designer.cs</LastGenOutput>
