@@ -1,9 +1,0 @@
-C:\Users\Owner\source\repos\WindowsFormsApp2\dll_soloClase\bin\Debug\dll_soloClase.dll
-C:\Users\Owner\source\repos\WindowsFormsApp2\dll_soloClase\bin\Debug\dll_soloClase.pdb
-C:\Users\Owner\source\repos\WindowsFormsApp2\dll_soloClase\obj\Debug\dll_soloClase.csprojAssemblyReference.cache
-C:\Users\Owner\source\repos\WindowsFormsApp2\dll_soloClase\obj\Debug\dll_soloClase.dll
-C:\Users\Owner\source\repos\WindowsFormsApp2\dll_soloClase\obj\Debug\dll_soloClase.pdb
-C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\dll_soloClase\bin\Debug\dll_soloClase.dll
-C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\dll_soloClase\bin\Debug\dll_soloClase.pdb
-C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\dll_soloClase\obj\Debug\dll_soloClase.dll
-C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\dll_soloClase\obj\Debug\dll_soloClase.pdb
