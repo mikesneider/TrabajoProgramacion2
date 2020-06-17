@@ -1,0 +1,74 @@
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\dll_soloClase.dll
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\dll_soloClase.pdb
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Res.resources
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.REs.en-US.resources
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\Owner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\dll_soloClase.dll
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\dll_soloClase.pdb
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Res.resources
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.REs.en-US.resources
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Owner\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\DLL_Graficador.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\dll_soloClase.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\DLL_Graficador.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\dll_soloClase.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.f_base.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.f_principal.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.f_prueba.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.f_resuelve.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Res.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Res.en-US.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\Libreria_Graficadora.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\Libreria_Graficadora.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\fr-FR\WindowsFormsApp2.resources.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Res.fr-FR.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\fr-FR\WindowsFormsApp2.resources.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\en-US\Libreria_Graficadora.resources.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\fr-FR\Libreria_Graficadora.resources.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\log4net.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\log4net.xml
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.f_datagridSQL.resources

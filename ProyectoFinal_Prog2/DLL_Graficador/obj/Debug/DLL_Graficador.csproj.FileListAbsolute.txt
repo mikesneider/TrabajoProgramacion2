@@ -1,0 +1,7 @@
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\DLL_Graficador\bin\Debug\DLL_Graficador.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\DLL_Graficador\bin\Debug\DLL_Graficador.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\DLL_Graficador\obj\Debug\DLL_Graficador.UC_graficador.resources
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\DLL_Graficador\obj\Debug\DLL_Graficador.csproj.GenerateResource.cache
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\DLL_Graficador\obj\Debug\DLL_Graficador.dll
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\DLL_Graficador\obj\Debug\DLL_Graficador.pdb
+C:\Users\mikes\OneDrive\UDI\Mis Crusos\2020-I\Programacion 2\ProyectoFinal_Prog2\DLL_Graficador\obj\Debug\DLL_Graficador.csprojAssemblyReference.cache
